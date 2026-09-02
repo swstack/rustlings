@@ -1,0 +1,17 @@
+# Rust build artifacts
+Cargo.lock
+target/
+
+# Rustlings local progress
+.rustlings-state.txt
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
